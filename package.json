@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/filipedeschamps/rss-feed-emitter.git"
+    "url": "git+https://github.com/absk/rss-feed-emitter.git"
   },
   "keywords": [
     "rss",
